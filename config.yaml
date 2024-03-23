@@ -1,0 +1,28 @@
+baseURL: https://kristinravel.com/
+languageCode: en-us
+title: Kristin Ravel's Site
+
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Kristin Ravel's Site" # optional default will be site title
+    #subtitle: "This is subtitle"
+    #imageUrl: "<image link>" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size
+    #buttons:
+    #  - name: Archive
+    #    url: "/archive"
+    #  - name: Github
+    #    url: "https://github.com/"
+
+  socialIcons: # optional
+    - name: "Facebook"
+      url: "<link>"
+    - name: "Instagram"
+      url: "<link2>"
+    - name: "Email"
+      url: "<link2>"
